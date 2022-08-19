@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Test Documentation
+# Test 2
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
