@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Test 2
+# Test 1
 
 
 {% include list.liquid all=true %}
