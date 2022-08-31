@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# Test 2
+# Learning notes
 
 
 {% include list.liquid all=true %}
