@@ -6,7 +6,7 @@ sort: 1
 
 ## Statement  of the theorem 
 
-There is a  bounded domain $V \subseteq \mathbb{R}^3$ and $S$ is the surface encloses the domain $V$. Let $\mathbf{F}$ be a vector field on the domain $V$, which is twice continuously differentiable inside $V$. Then $\mathbf{F}$ can be decomposed into a curf-free (longitudinal, diverging, non-curling, irrotational) vector field and a divergence-free (transverse, solenoidal, curling, rotational, non-diverging) vector field.
+There is a  bounded domain $$V \subseteq \mathbb{R}^3$$ and $$S$$ is the surface encloses the domain $V$. Let $\mathbf{F}$ be a vector field on the domain $V$, which is twice continuously differentiable inside $V$. Then $\mathbf{F}$ can be decomposed into a curf-free (longitudinal, diverging, non-curling, irrotational) vector field and a divergence-free (transverse, solenoidal, curling, rotational, non-diverging) vector field.
 
 $$
 \mathbf{F}=-\nabla \Phi+\nabla \times \mathbf{A}
