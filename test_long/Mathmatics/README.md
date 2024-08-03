@@ -1,3 +1,0 @@
-# Mathmatics
-
-source: `{{ page.path }}`

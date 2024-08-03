@@ -1,4 +1,7 @@
+---
+sort: 2
+---
+
 # Helmholtz decomposition of velocity
 
-source: `{{ page.path }}`
 

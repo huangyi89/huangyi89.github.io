@@ -1,2 +1,0 @@
-# Helmholtz theorem
-
